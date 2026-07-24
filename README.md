@@ -24,5 +24,23 @@ A zero-code portfolio website generator. Users edit one local JSON file to updat
 - Frontend (React.js): Powers a responsive.
   
 - Backend (JSON): Json based structure for all data.
+
+
+# Go to public/data directory and add details in JSON structure.
+
+
+  ## About Me Page
   
+  <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/94d8093c-38d6-4720-b53e-1b7aef645856" />
+
+
+  ## Skill Page
+
+  <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2777a57e-7539-4c9b-a694-bcae7758eef8" />
+
+
+  ## Certification Page
+
+  <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b111b92b-7bb1-4b5a-8428-38c9eb7b843b" />
+
 
