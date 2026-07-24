@@ -33,7 +33,7 @@ A zero-code portfolio website generator. Users edit one local JSON file to updat
 
   ## About Me Page
   
-  <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/94d8093c-38d6-4720-b53e-1b7aef645856" />
+  <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b6e80803-6093-4dc6-9661-c0920b69d2db" />
 
 
   ## Skill Page
