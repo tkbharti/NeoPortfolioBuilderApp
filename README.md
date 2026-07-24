@@ -26,7 +26,9 @@ A zero-code portfolio website generator. Users edit one local JSON file to updat
 - Backend (JSON): Json based structure for all data.
 
 
-# Go to public/data directory and add details in JSON structure.
+
+# Note: Go to public/data directory and add details in JSON structure.
+
 
 
   ## About Me Page
