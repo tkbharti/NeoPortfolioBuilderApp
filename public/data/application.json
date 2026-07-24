@@ -1,0 +1,15 @@
+{
+  "title"	: "Applications",
+  "appdetails":[
+    {
+      "id":1, 
+      "name": "Produc name build by you",
+      "gitlink"  : "githublink",
+      "applink" : false,
+      "logopath":"demo.png",
+      "externallink" : "",
+      "description":"product details"
+    } 
+
+]
+}    

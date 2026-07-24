@@ -1,0 +1,14 @@
+{
+  "title"	: "Experience",
+  "company":[
+     {
+      "name":"Company Name",
+      "location":"Location",
+      "duration":"🗓️August 2025 – March 2026",
+      "designation":"Designation", 
+      "roletype":"Part Time",
+      "web":"https://companywebsite.com",
+      "role":"<strong>👉System Architecture:</strong> Designed a scalable web tool to handle real-time, dynamic live broadcast ticker content.<br/><strong>👉Real-Time Sync:</strong> Integrated WebSockets to ensure instant UI synchronization.<br/><strong>👉Engine Integration:</strong> Collaborated with multiple broadcast engines to achieve optimal performance and stability.<br/><strong>👉Technical Stack:</strong> Directed full-stack engineering using React.js, Node.js, and PostgreSQL.<br/><strong>👉Code Quality:</strong> Led refactoring efforts and code reviews rooted in SOLID design principles to reduce technical debt.<br/><strong>👉App Distribution:</strong> Used Electron to package, distribute, and deploy the desktop application, including the implementation of a secure licensing system." 
+    } 
+  ]
+}

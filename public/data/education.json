@@ -1,0 +1,11 @@
+{
+  "title"	: "Education", 
+  "education"	: [
+    {
+      "college" : "University Name",
+      "year"    : "2000 - 2004",
+      "course"  : "Bachelor of XYZ",
+      "subject" : "Course Name"
+    }
+  ] 
+}

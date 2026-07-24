@@ -1,0 +1,21 @@
+{
+  "title"	: "About Me",
+  "fname"	: "First",
+  "mname"	: "Middle",
+  "lname"	: "Last", 		
+  "email"	: "xyz@gmail.com",
+  "web"		: "www.xyz.com",
+  "contact"	: "",
+  "address"	: "Bangalore, Karnataka, India",
+  "availability":"Full-time,Part-time,Contractual,Temporary,Freelancer",
+  "linkedin": "",
+  "facebook": "",
+  "github"	: "",
+  "twitter"	: "",
+  "designation"	: "Current Designation",
+  "description1": "I previously worked as a Full Stack Techno Functional Manager, bringing over 18 years of experience in designing, developing, and delivering complex, high-traffic web applications. Throughout my career, I have led cross-functional teams and successfully delivered scalable solutions ranging from early-stage MVPs to enterprise-grade platforms across multiple industries.",
+  "description2": "",
+  "description3": "",
+  "description4": "",
+  "description5": ""
+}

@@ -1,0 +1,27 @@
+{
+  "title"	: "Skills",
+  "image":[
+    "HTML5",
+    "JavaScript",
+    "TypeScript",
+    "JQuery",
+    "D3Js", 
+    "Angular",
+    "Ionic",
+    "React", 
+    "Redux",
+    "Vite",
+    "GruntJs",
+    "GulpJs"
+  ],  
+  "skill":[ 
+    {"PM Tools":"Jira, Clickup, MS Teams"},
+    {"AI Tools":"GitHub Copilot, Google AI Studio"},
+    {"Backend":"Node.js, Express.js, REST API, Monolithic and Microservices, Event Driven, Express, Rate Limit, Job scheduler, Socket.io"},
+    {"Frontend":"React (18), Angular(8,14,17), Vanilla Js, Angular Universal, Typescript, ES-6, Jquery, HTML5, CSS3, Tailwind, Bootstrap, Web Storage, JSON, RxJs"}
+  ],
+  "core":[
+    "Agile Methodology",
+    "Team Leading" 
+  ]
+}

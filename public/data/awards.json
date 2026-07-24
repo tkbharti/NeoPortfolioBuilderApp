@@ -1,0 +1,11 @@
+{
+  "title"	: "Awards",
+  "awards":[
+      {
+        "name":"Star Performer Of The Quarter Q1", 
+        "year":"2021-2022",
+        "by":"Associated with Compnay name",
+        "link":"img/1778043210861.jfif"
+      } 
+  ]
+}

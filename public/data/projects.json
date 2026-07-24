@@ -1,0 +1,26 @@
+{
+  "title"	: "Projects",
+  "proj"  :[
+    {
+      "name"  : "1️⃣Project name", 
+      "tech"  : "React, Node.js, PostgreSQL, WebSocket",
+      "stack" : "MERN Stack",
+      "role"  : "Role Name", 
+      "company":"Company name and address", 
+      "link1" : "",
+      "link2" : "",
+      "link3" : "",
+      "teamsize": "",
+      "duration": "8 Months",
+      "description":"Project details"
+    } 
+
+  ],
+  "otherproj":[
+    {
+      "domain": "",
+      "link"  : "",
+      "desp"  : ""
+    } 
+  ]
+}

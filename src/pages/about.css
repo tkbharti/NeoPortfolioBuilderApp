@@ -1,0 +1,176 @@
+	
+h1,
+h2,
+ 
+
+h5,
+h6 {
+  font-family: 'Saira Extra Condensed', serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #343a40; }
+
+h1 {
+  font-size: 4rem;
+  line-height: 5.5rem; }
+
+h2 {
+  font-size: 3.5rem; }
+ 
+h4, 
+h3 {
+  font-family: 'Open Sans', serif;
+  font-weight: 700;
+  text-transform: normal;
+  color: #343a40; 
+  font-size: 1.5rem;
+}  
+
+.subheading { 
+  font-weight: 500;
+  font-family: 'Saira Extra Condensed', serif;
+  font-size: 1.35rem; }
+
+.list-social-icons a {
+  color: #495057; }
+  .list-social-icons a:hover {
+    color: #0f1989; }
+  .list-social-icons a .fa-lg {
+    font-size: 1.75rem; }
+
+.list-icons {
+  padding:5px; 
+}
+.list-inline-item{
+  padding: 2px;
+}
+.list-icons .list-inline-item i:hover {
+    color: #0f1989; 
+}
+	
+.mb-3{
+	font-size: medium;
+	font-weight:normal;
+	font-family:math;	
+}	
+.mb-0{
+  font-size: 24px !important;
+  font-family:math;	
+}
+.mb-1{
+  font-size: 18px !important;
+  font-family:math;	
+}
+
+.mb-2{
+  font-size: 18px !important;
+  font-family:math;	
+   font-weight:bold;
+}
+
+ 
+ h1 {
+    font-size: 6rem;
+    line-height: 5.5rem;
+}
+h1, h2, h5, h6 {
+    font-family: 'Saira Extra Condensed', serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #343a40;
+}
+
+p{
+  font-size: medium;
+  font-family:math;	
+}
+  
+.fa-li {
+  color:#162456;
+}
+.skill{
+  color:#162456;
+  font-weight:bold;
+}
+.skillval{
+  font-size: 15px !important;
+}
+
+@media (min-width: 992px) {
+  section.resume-section {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important; 
+  } 
+
+
+}
+	
+ 
+.bg-primary {
+  background-color: #00064f !important; }
+
+.text-primary {
+  color: #0f1989 !important; }
+
+a {
+  color: #0f1989; 
+}
+a:hover, a:focus, a:active 
+{
+  color: #0f1989; 
+}
+
+.cardui {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 25px;
+    margin-bottom: 10px;
+    padding-right:2%;
+}
+
+.cardui-card {
+    background: white;
+    padding: 20px;
+    border-radius: 18px;
+    box-shadow: 5px 5px 5px rgb(117 123 141 / 98%);
+    transition: .3s;
+}
+
+.cardui-card-inner {
+    background: white;
+    padding: 40px;
+    border:1px solid #27418c;
+    border-radius: 10px;
+    box-shadow: 2px 2px 0px #27418c;
+    transition: .3s;
+    margin:2%;
+}
+
+@media (max-width: 892px) {
+  .cardui-card {
+     box-shadow: 0px 0px 0px rgb(117 123 141 / 98%);
+     padding-right:10%;
+     margin:5%; 
+  }
+  .mb-4 {
+    font-size: 44px;
+  }
+}
+
+.mb-4 {
+    font-size: 5rem;
+}
+
+.tech {
+    margin-top: 15px;
+}
+
+.tech span {
+    background: #e0f2fe;
+    padding: 6px 12px;
+    border-radius: 20px;
+    margin: 5px;
+    display: inline-block;
+    font-size: 13px;
+}
+ 

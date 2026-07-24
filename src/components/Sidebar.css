@@ -1,0 +1,183 @@
+.sidebar{
+    width:220px;
+    height:100vh;
+    position:fixed;
+    left:0;
+    top:0;
+    background:#162456;
+    color:white;
+    display:flex;
+    flex-direction:column;
+    box-shadow:0 0 20px rgba(0,0,0,.25);
+	padding: 20px; 
+	gap: 5px;
+	z-index: 10;   
+}
+
+.profile{  
+    text-align:center; 
+    border-bottom:1px solid rgba(255,255,255,.15); 
+}
+
+.profile-img{  
+	width:100px; 
+	height:100px; 
+    border-radius:50%; 
+    border:5px solid #ffffff; 
+    object-fit:cover; 
+    margin-bottom:10px; 
+}
+
+.profile h3{ 
+    font-size:24px; 
+    margin-bottom:8px; 
+}
+
+.profile p{ 
+    color:#d0d8ff; 
+}
+
+.sidebar nav{ 
+    display:flex; 
+    flex-direction:column; 
+    margin-top:10px; 
+}
+
+.sidebar nav a{
+
+    color:white;
+    text-decoration:none;
+    padding:5px 20px;
+    display:flex;
+    align-items:center;
+    gap:10px;
+    font-size:17px;
+    transition:.35s;
+    border-left:4px solid transparent;
+}
+
+.sidebar nav a:hover{
+    background:#1f3570;
+    border-left:4px solid #00bfff;
+}
+
+.sidebar nav a.active{
+    background:#27418c;
+    border-left:4px solid #00bfff;
+}
+ 
+@media(max-width:992px){ 
+	.sidebar{ 
+		width:100px; 
+	}
+
+	.profile h3,
+	.profile p,
+	.sidebar nav span{ 
+		display:none; 
+	}
+
+	.profile-img{ 
+		width:55px; 
+		height:55px; 
+	} 
+
+}
+
+
+ 
+
+.nav-container::after{
+    content:"";
+    position:sticky;
+    bottom:0;
+    display:block;
+    height:30px;
+    background:linear-gradient(to bottom,
+        rgba(22,36,86,0),
+        rgba(22,36,86,1));
+    pointer-events:none;
+}
+
+.nav-container{
+ 
+    flex:1;
+     overflow-y: auto;
+    overflow-x: hidden;
+scrollbar-width: none;      /* Firefox */
+    -ms-overflow-style: none;   /* IE & Edge */
+    transition:all .3s ease;
+}
+
+/* Show scrolling only on hover */
+.nav-container:hover{
+    overflow-y:auto;
+}
+
+/* Chrome, Edge, Safari */
+.nav-container::-webkit-scrollbar{
+    width:8px;
+	display: none;  
+}
+
+.nav-container::-webkit-scrollbar-track{
+    background:transparent;
+}
+
+.nav-container::-webkit-scrollbar-thumb{
+    background:rgba(255,255,255,.35);
+    border-radius:10px;
+}
+
+.nav-container::-webkit-scrollbar-thumb:hover{
+    background:rgba(255,255,255,.6);
+}
+
+/* Firefox */
+.nav-container{
+    scrollbar-width:none;
+}
+
+.nav-container:hover{
+    scrollbar-width:thin;
+}
+
+/*
+.sidebar {
+    width: 280px;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background: #162456;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+*/
+ 
+
+.nav-container {
+    flex: 1;
+    overflow-y: auto;
+    overflow-x: hidden;
+
+    /* Hide scrollbar */
+    scrollbar-width: none;      /* Firefox */
+    -ms-overflow-style: none;   /* IE & Edge */
+}
+ 
+footer {
+  background-color: #f8fafc;
+  color: #333;
+  padding: 1rem; 
+  text-align:center;
+  margin-top:20px;
+  padding:10px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%; 
+  font-size: 10px;
+  border-top: 1px solid #c3bfbfff;
+} 
