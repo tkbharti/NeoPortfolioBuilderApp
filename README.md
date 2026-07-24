@@ -1,16 +1,46 @@
-# React + Vite
+<img width="500" height="248" alt="image" src="https://github.com/user-attachments/assets/08726d6e-883f-4f46-8ccd-381e295be210" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# 🖥️ SysPulse: JSON-Driven Portfolio Builder Application
 
-## React Compiler
+A zero-code portfolio website generator. Users edit one local JSON file to update their entire site.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# 🚀 Key Project Capabilities
 
-## Expanding the Oxlint configuration
+- User fills out a each navigation data json file with text and links.
+  
+- React imports the file and maps data to components.
+  
+- A fully rendered, professional portfolio instantly appears.
+  
+- Handles local image paths and external links smoothly.
+  
+- Ready to host instantly on Vercel or Netlify.
+  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+# 🛠️ Technical Architecture
+
+- Frontend (React.js): Powers a responsive.
+  
+- Backend (JSON): Json based structure for all data.
+
+
+
+# Note: Go to public/data directory and add details in JSON structure.
+
+
+
+  ## About Me Page
+  
+  <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b6e80803-6093-4dc6-9661-c0920b69d2db" />
+
+
+  ## Skill Page
+
+  <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2777a57e-7539-4c9b-a694-bcae7758eef8" />
+
+
+  ## Certification Page
+
+  <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b111b92b-7bb1-4b5a-8428-38c9eb7b843b" />
